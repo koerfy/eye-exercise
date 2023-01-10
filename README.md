@@ -1,5 +1,5 @@
 # Eye Exercise
-Description: The eye exercise uses CSS language in addition to HTML and Javascript to create two eyes that follow the movement of the mouse over the screen
+Description: The eye exercise uses CSS language in addition to HTML and Javascript to create two eyes that follow the movement of the mouse over the screen.
 
 How to run: Fork the folder with the files. Download them and experiment on your own.
 
